@@ -12,13 +12,13 @@
 <g fill="#0000ff" fill-opacity="1" stroke="blue" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
 font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
 >
-<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M28.274,17.4173 L3.72598,17.4173 L16,38.6772 L28.274,17.4173"/>
+<path vector-effect="none" fill-rule="evenodd" d="M28.274,17.4173 L3.72598,17.4173 L16,38.6772 L28.274,17.4173"/>
 </g>
 
 <g fill="#ffffff" fill-opacity="1" stroke="#232323" stroke-opacity="1" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
 font-family="Arial" font-size="8" font-weight="400" font-style="normal" 
 >
-<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M3.72598,17.4173 L28.274,17.4173 L16,-3.84252 L3.72598,17.4173"/>
+<path vector-effect="none" fill-rule="evenodd" d="M3.72598,17.4173 L28.274,17.4173 L16,-3.84252 L3.72598,17.4173"/>
 </g>
 </g>
 </svg>
